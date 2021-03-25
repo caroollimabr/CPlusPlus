@@ -19,5 +19,5 @@ int main(){
         counter++;
         cout << "\n" << "A quantidade final e " << ammount << "\n";
     }
-
+    return 0;
 }

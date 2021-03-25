@@ -1,3 +1,5 @@
+//.h - visao logica (regra de negocio)
+
 /*
   As primeiras linhas de código deste arquivo servem para evitar que
   múltiplas definições da classe Time ocorram. Isso poderia ocorrer se

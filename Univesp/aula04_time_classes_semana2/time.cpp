@@ -1,6 +1,6 @@
-/* Implementação da classe Time */
+// Implementacao da classe Time 
 #include <iostream>  // Para usar a função std::cout.
-#include "time.h"    // Para visualizar a classe Time.
+#include "time.h"    // Para visualizar a classe Time - sempre importar o arquivo .h quando for POO
 
 using namespace std; // Para escrever cout ao invés de
 		     // std::cout.
