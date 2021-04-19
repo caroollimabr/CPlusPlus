@@ -10,8 +10,8 @@ class Stack {
   bool isFull() const;
   void print() const;
   
-  void push(ItemType);
-  ItemType pop();
+  void push(ItemType); //entra na pilha
+  ItemType pop(); //tira da pilha
  private:
   int length;
   ItemType* structure;
