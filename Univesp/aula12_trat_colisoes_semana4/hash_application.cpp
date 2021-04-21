@@ -31,4 +31,5 @@ int main(){
   alunosHash.deleteItem(aluno);
   alunosHash.print();
   cout << "Fim" << endl;  
+  system ("PAUSE");
 }

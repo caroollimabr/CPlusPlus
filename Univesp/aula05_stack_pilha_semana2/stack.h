@@ -2,7 +2,7 @@
 
 const int MAX_ITEMS = 100;
 
-class Stack {
+class Stack { //Tipo abstrato de dados
  public:
   Stack();   // Construtor
   ~Stack();   // Destrutor

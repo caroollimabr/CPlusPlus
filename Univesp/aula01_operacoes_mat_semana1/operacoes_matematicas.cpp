@@ -24,5 +24,6 @@ int main(){
     std::cout << "\n" << "A divisao com numero decimal possui o quociente " << fdiv;
     std::cout << "\n" << "O resto da divisao e " << res;
     
+    system ("PAUSE");
     return 0;
 }

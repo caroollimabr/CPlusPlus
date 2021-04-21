@@ -38,5 +38,6 @@ int main() {
   } else {
     cout << "Mal formada \n";
   }
+  system ("PAUSE");
 }
 

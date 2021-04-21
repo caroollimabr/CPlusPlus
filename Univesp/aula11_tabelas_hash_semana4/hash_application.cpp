@@ -1,6 +1,5 @@
 #include <iostream>
 #include "hash.h" 
-
 using namespace std;
 
 int main(){
@@ -31,4 +30,5 @@ int main(){
   alunosHash.deleteItem(aluno);
   alunosHash.print();
   cout << "Fim" << endl;  
+  system ("PAUSE");
 }

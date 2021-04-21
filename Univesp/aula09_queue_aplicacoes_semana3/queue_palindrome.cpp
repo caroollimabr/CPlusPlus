@@ -30,5 +30,6 @@ int main() {
     cout << "String é Palindrome" << endl;
   else
     cout << "String não é palindrome" << endl;
+  system ("PAUSE");
   return 0; 
 }

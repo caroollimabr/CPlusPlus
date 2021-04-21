@@ -16,6 +16,7 @@ int main() {
 
   float average = (float)sum/(float)(count-1);
   cout << "A média da série é: " << average << endl;
- 
+  
+  system ("PAUSE");
   return 0;
 }

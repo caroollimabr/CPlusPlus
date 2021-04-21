@@ -22,6 +22,7 @@ int main() {
   std::cout << "Divisão Inteira: " << div << std::endl;
   std::cout << "Divisão Real:    " << fdiv << std::endl;
   std::cout << "Resto:           " << res << std::endl;
-
+  
+  system ("PAUSE");
   return 0;
 }

@@ -11,6 +11,8 @@ int main(){
         int a=2, b=3;
         cout<<"Antes: a = "<<a<<" b = " << b<<endl;
         troca_por_valor(a,b);
-        cout<<"Depois: a = "<<a<<" b = "<< b << endl;   
+        cout<<"Depois: a = "<<a<<" b = "<< b << endl; 
+
+        system ("PAUSE");  
         return 0;
 }

@@ -25,5 +25,6 @@ int main() {
   if (number1 >= number2)
     cout << number1 << " >=  " <<  number2 << std::endl;;
 
+  system ("PAUSE");
   return 0;
 }

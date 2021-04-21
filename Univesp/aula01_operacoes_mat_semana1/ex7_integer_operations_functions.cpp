@@ -41,5 +41,6 @@ int main() {
   std::cout << "Divisão Real:    " << fdiv(number1, number2) << std::endl;
   std::cout << "Resto:           " << res(number1, number2)  << std::endl;
 
+  system ("PAUSE");
   return 0;
 }

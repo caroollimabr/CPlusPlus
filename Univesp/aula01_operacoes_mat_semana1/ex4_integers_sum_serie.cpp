@@ -10,5 +10,6 @@ int main() {
 
   cout << "A soma da série é" << total << endl;
  
+  system ("PAUSE");
   return 0;
 }

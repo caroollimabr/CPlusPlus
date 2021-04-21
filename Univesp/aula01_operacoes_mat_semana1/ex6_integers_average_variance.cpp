@@ -30,6 +30,7 @@ int main() {
   variance = variance /10;
   cout << "A média da série é: "     << average << endl;
   cout << "A variância da série é: " << variance << endl;
- 
+  
+  system ("PAUSE");
   return 0;
 }

@@ -14,5 +14,7 @@ int main(){
     cout << "Antes: valor1 = "<< valor1 <<", valor2 = " << valor2 << endl;
     troca_por_referencia(valor1, valor2);
     cout << "Depois: valor1 = "<< valor1 <<", valor2 = " << valor2 << endl;
+
+    system ("PAUSE");
     return 0;
 }

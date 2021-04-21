@@ -19,6 +19,7 @@ int main() {
   }
 
   cout << "Quantidade de Números Menores que 5: [" << amount <<  "]" << endl;
- 
+  
+  system ("PAUSE");
   return 0;
 }
